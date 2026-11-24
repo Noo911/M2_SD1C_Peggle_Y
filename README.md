@@ -1,6 +1,6 @@
-#Peggle game
+# Peggle game
 
-##Intro
+## Intro
 
 
 dit is mijn geweldige game
