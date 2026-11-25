@@ -22,30 +22,26 @@ Player boven het scherm die een wapen heeft en boven een gebouw is en zombies kl
 
 ## Conceptschets
 
-Titel: Fruity Peggle!
+Titel: Apocalpse peggle
 
 Genre: Physics-based arcade puzzelgame
 
 ## Beschrijving
-De speler schiet een bal (bijv. een citroen) van boven in het speelveld.  
-De bal stuitert tegen fruitstukken (appels, druiven, sinaasappels) en sapflesjes.  
-Bij elke aanraking spat er sap op het scherm en loopt de score op.  
-Wanneer de bal in een blender onderaan valt, wordt de beurt afgesloten.  
-Hoe meer fruit je raakt, hoe voller de sapmeter wordt.
+de player is een human die probeert zombies te vechten om te surviven en zombies probeeren om naar boven te komen en de player moet hun schieten om te surviven
 
 ## Gameplaykern
-- **Bal:** een stuk fruit (citroen, kiwi, aardbei)  
-- **Targets / bumps:** ander fruit met colliders  
-- **Score:** punten + sapmeter stijgt  
-- **Doel:** maak een volle smoothie voordat je beurten op zijn  
+- **Weapon** pistool sniper revolver ect ect
+- **Targets / zombies** andere sorten zombie natals giant ect
+- **Score:** je punten stijgen met de kills en je moet kills krijgen om naar de volgende ronde te gaan
+- **Doel:** maak al de zombies dood om naar de next level te gaan 
 
 ## Stijl en sfeer
-Kleurrijk, sappig, cartoony en met geluiden van fruit dat spat of plopt.
+shooter game/survival game zombies dood te maken
 
 ## Structuur van het level
-- **Bovenaan:** schietplek (de speler richt en vuurt)  
-- **Midden:** veld vol fruit (cirkelvormige of onregelmatige patronen)  
-- **Onderaan:** opvangbak of blender (scoreberekening)
+- **Bovenaan:** schietplek 
+- **Midden:** waar de zombies naar boven klimmen  
+- **Onderaan:** stats
 
 
 LEVELSCHETS
